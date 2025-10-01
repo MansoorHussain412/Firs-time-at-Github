@@ -1,0 +1,61 @@
+
+.headdiv{
+     justify-content: center;
+     align-content: center;
+}
+.maindiv{
+     width: 730px;
+     margin-left: 180px;
+     margin-top: 90px;
+     margin-right: 33px;
+     margin-bottom: 185px;
+}
+
+.h1{
+     color:white;
+     }
+
+.back{
+color: white;
+}
+
+.rp{  
+color: gray;
+font-size: 8px;
+}
+
+button{
+     background-color: rgb(55, 112, 236);
+     color: azure;
+     border-radius: 5px;
+     border: 0cap;
+     width: 111px;
+     height: 40px;
+     cursor: pointer;
+     margin-top: 20px;
+}
+.BP{
+    font-weight: 600;
+}
+.play{
+     color: white;
+}
+
+.footerdiv{
+     display: flex;
+     margin-left: 50px;
+}
+.footicon{
+     width: 26px;
+     height: 26px;
+     margin-right: 11px;
+     margin-top: 10px;
+}
+.FP{
+     color: white;
+}
+
+.footer{
+     position: absolute;
+     border: 1px;
+}
